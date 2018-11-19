@@ -1,9 +1,7 @@
 import React from 'react';
 
-import './index.css';
-
 const App = () => (
-  <div className="app">
+  <div>
     <h1>App</h1>
   </div>
 );
